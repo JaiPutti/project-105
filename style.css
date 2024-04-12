@@ -1,0 +1,46 @@
+body
+{
+
+background-color: rgb(231, 26, 26);
+
+
+
+
+}
+
+.heading
+{
+
+ font-weight: bold;
+font-size: 35px;
+width:50% ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#camera
+{
+
+    border: 2px dashed rgb(255, 255, 0);
+width: 350px;
+height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(209, 227, 14);
+
+}
+
+p
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 193, 68);
+}
+label
+{
+
+background-color: rgb(43, 226, 107);
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+}
